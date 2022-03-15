@@ -1,27 +1,17 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+Este proyecto contiene la aplicación del tutorial "Tour of Heroes" sobre Angular, disponible en https://angular.io/tutorial.
 
-## Development server
+El proyecto incluye un despliegue en la plataforma "Vercel": https://angular-tour-of-heroes-daw-2.vercel.app/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Pasos realizados:
 
-## Code scaffolding
+- Se ha creado el proyecto
+- Se han creado el componente de los héroes
+- Se ha añadido la lista de héroes
+- Se han añadido los componentes "Dashboard" y "HeroesDetail"
+- Se han añadido los servicios
+- Se ha añadido la navegación
+- Se han convertido los servicios para que utilicen Http en vez de devolver el observable directamente.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+#### Lazar, Alexandru Robert | Desarrollo de Aplicaciones Web II
